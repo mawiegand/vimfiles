@@ -1,0 +1,12 @@
+h1. Introduction
+These are my current vim settings.
+
+h1. Installation instructions
+
+<pre><code>
+git clone https://github.com/DeadlyAssassin/vimfiles.git ~/.vim
+</pre></code>
+
+<pre><code>
+echo "source ~/.vim/vimrc" > ~/.vimrc
+</code></pre>

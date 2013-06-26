@@ -19,3 +19,6 @@
 [submodule "bundle/TabBar"]
 	path = bundle/TabBar
 	url = https://github.com/vim-scripts/TabBar.git
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby.git

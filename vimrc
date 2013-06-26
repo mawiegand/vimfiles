@@ -18,10 +18,13 @@ set tabstop=2
 filetype plugin indent on
 
 " enable syntax
-syntax on
+syntax enable
 
-" define colors
-colors desert
+" set background
+set background=dark
+
+" define colorscheme
+colorscheme solarized
 
 """""""""""""""""""""""""""""
 " => Keyboard mappings

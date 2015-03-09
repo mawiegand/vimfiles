@@ -13,6 +13,7 @@ set cmdheight=2
 " 1 tab == 2 spaces
 set shiftwidth=2
 set tabstop=2
+set expandtab
 
 " enable filetype and indent detection
 filetype plugin indent on

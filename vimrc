@@ -26,6 +26,10 @@ set background=dark
 " define colorscheme
 colorscheme solarized
 
+" directories for tmp files
+set backupdir=~/.vim/backup
+set directory=~/.vim/swap
+
 """""""""""""""""""""""""""""
 " => Keyboard mappings
 """""""""""""""""""""""""""""

@@ -18,6 +18,9 @@ set expandtab
 " enable filetype and indent detection
 filetype plugin indent on
 
+" tabsettings for python
+autocmd Filetype python setlocal expandtab! tabstop=4 shiftwidth=4
+
 " enable syntax
 syntax enable
 
@@ -36,3 +39,4 @@ set directory=~/.vim/swap
 """""""""""""""""""""""""""""
 " Toggle NERDTree
 map <F2> :NERDTreeToggle<CR>
+

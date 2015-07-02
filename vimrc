@@ -34,6 +34,9 @@ colorscheme solarized
 set backupdir=~/.vim/backup
 set directory=~/.vim/swap
 
+" Use ack instead of grep
+set grepprg=ack
+
 """""""""""""""""""""""""""""
 " => Keyboard mappings
 """""""""""""""""""""""""""""

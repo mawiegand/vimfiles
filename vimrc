@@ -24,11 +24,17 @@ autocmd Filetype python setlocal expandtab! tabstop=4 shiftwidth=4
 " enable syntax
 syntax enable
 
+" use 256 colors
+set t_Co=256
+
 " set background
 set background=dark
 
 " define colorscheme
 colorscheme solarized
+
+" enable statusline, to appear all the time
+set laststatus=2
 
 " directories for tmp files
 set backupdir=~/.vim/backup

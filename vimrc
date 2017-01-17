@@ -49,3 +49,4 @@ set grepprg=ack
 " Toggle NERDTree
 map <F2> :NERDTreeToggle<CR>
 
+"let g:linuxsty_patterns = [ "/usr/src/", "/linux", "~/kernel/linux" ]

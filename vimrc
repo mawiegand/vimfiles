@@ -43,10 +43,13 @@ set directory=~/.vim/swap
 " Use ack instead of grep
 set grepprg=ack
 
+"let g:linuxsty_patterns = [ "/usr/src/", "/linux", "~/kernel/linux" ]
+
+set guifont=Hack\ 10
+let g:airline_powerline_fonts = 1
+
 """""""""""""""""""""""""""""
 " => Keyboard mappings
 """""""""""""""""""""""""""""
 " Toggle NERDTree
 map <F2> :NERDTreeToggle<CR>
-
-"let g:linuxsty_patterns = [ "/usr/src/", "/linux", "~/kernel/linux" ]

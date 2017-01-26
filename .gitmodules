@@ -37,3 +37,9 @@
 [submodule "bundle/vim-linux-coding-style"]
 	path = bundle/vim-linux-coding-style
 	url = https://github.com/vivien/vim-linux-coding-style.git
+[submodule "bundle/vim-gitgutter"]
+	path = bundle/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "bundle/nerdtree-git-plugin"]
+	path = bundle/nerdtree-git-plugin
+	url = https://github.com/xuyuanp/nerdtree-git-plugin.git

@@ -16,9 +16,10 @@ set number
 " Height of command bar
 set cmdheight=2
 
-" 1 tab == 2 spaces
-set shiftwidth=2
-set tabstop=2
+" 1 tab == 4 spaces
+set shiftwidth=4
+set tabstop=4
+set softtabstop=4
 set expandtab
 
 " enable filetype and indent detection

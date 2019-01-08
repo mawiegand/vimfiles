@@ -26,7 +26,7 @@ set expandtab
 filetype plugin indent on
 
 " tabsettings for python
-autocmd Filetype python setlocal expandtab! tabstop=4 shiftwidth=4
+" autocmd Filetype python setlocal expandtab! tabstop=4 shiftwidth=4
 
 " enable syntax
 syntax enable

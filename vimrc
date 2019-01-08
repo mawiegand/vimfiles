@@ -1,3 +1,7 @@
+" load pathogen in bundle dir
+" See https://github.com/tpope/vim-pathogen#faq
+runtime bundle/vim-pathogen/autoload/pathogen.vim
+
 " set subdirectory for plugins
 execute pathogen#infect()
 

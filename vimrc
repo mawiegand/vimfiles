@@ -1,9 +1,11 @@
-" load pathogen in bundle dir
-" See https://github.com/tpope/vim-pathogen#faq
-runtime bundle/vim-pathogen/autoload/pathogen.vim
-
-" set subdirectory for plugins
-execute pathogen#infect()
+" if native package system is not supported use pathogen
+if !has('packages')
+  " load pathogen in bundle dir
+  " See https://github.com/tpope/vim-pathogen#faq
+  runtime bundle/vim-pathogen/autoload/pathogen.vim
+  " set subdirectory for plugins
+  execute pathogen#infect()
+endif
 
 " Set utf8 as standard encoding
 set encoding=utf8

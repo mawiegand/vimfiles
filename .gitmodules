@@ -2,53 +2,53 @@
 	path = bundle/vim-pathogen
 	url = https://github.com/tpope/vim-pathogen.git
 [submodule "bundle/nerdtree"]
-	path = bundle/nerdtree
+	path = pack/mawiegand/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
 [submodule "bundle/vim-rails"]
-	path = bundle/vim-rails
+	path = pack/mawiegand/start/vim-rails
 	url = https://github.com/tpope/vim-rails.git
 [submodule "bundle/vim-bundler"]
-	path = bundle/vim-bundler
+	path = pack/mawiegand/start/vim-bundler
 	url = https://github.com/tpope/vim-bundler.git
 [submodule "bundle/vim-endwise"]
-	path = bundle/vim-endwise
+	path = pack/mawiegand/start/vim-endwise
 	url = https://github.com/tpope/vim-endwise.git
 [submodule "bundle/vim-fugitive"]
-	path = bundle/vim-fugitive
+	path = pack/mawiegand/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
 [submodule "bundle/supertab"]
-	path = bundle/supertab
+	path = pack/mawiegand/start/supertab
 	url = https://github.com/ervandew/supertab.git
 [submodule "bundle/TabBar"]
-	path = bundle/TabBar
+	path = pack/mawiegand/start/TabBar
 	url = https://github.com/vim-scripts/TabBar.git
 [submodule "bundle/vim-ruby"]
-	path = bundle/vim-ruby
+	path = pack/mawiegand/start/vim-ruby
 	url = https://github.com/vim-ruby/vim-ruby.git
 [submodule "bundle/vim-colors-solarized"]
-	path = bundle/vim-colors-solarized
+	path = pack/mawiegand/start/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/vim-airline"]
-	path = bundle/vim-airline
+	path = pack/mawiegand/start/vim-airline
 	url = https://github.com/bling/vim-airline
 [submodule "bundle/YouCompleteMe"]
-	path = bundle/YouCompleteMe
+	path = pack/mawiegand/start/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
 [submodule "bundle/php.vim"]
-	path = bundle/php.vim
+	path = pack/mawiegand/start/php.vim
 	url = https://github.com/StanAngeloff/php.vim.git
 [submodule "bundle/vim-linux-coding-style"]
-	path = bundle/vim-linux-coding-style
+	path = pack/mawiegand/start/vim-linux-coding-style
 	url = https://github.com/vivien/vim-linux-coding-style.git
 [submodule "bundle/vim-gitgutter"]
-	path = bundle/vim-gitgutter
+	path = pack/mawiegand/start/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
 [submodule "bundle/nerdtree-git-plugin"]
-	path = bundle/nerdtree-git-plugin
+	path = pack/mawiegand/start/nerdtree-git-plugin
 	url = https://github.com/xuyuanp/nerdtree-git-plugin.git
 [submodule "bundle/vim-devicons"]
-	path = bundle/vim-devicons
+	path = pack/mawiegand/start/vim-devicons
 	url = https://github.com/ryanoasis/vim-devicons.git
 [submodule "bundle/vim-nerdtree-syntax-highlight"]
-	path = bundle/vim-nerdtree-syntax-highlight
+	path = pack/mawiegand/start/vim-nerdtree-syntax-highlight
 	url = https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.git
